@@ -1,0 +1,7 @@
+/Diffusion_equation/Data/testing_data.npz
+/Diffusion_equation/Data/PICNO_S_result.npz
+/Diffusion_equation/Data/PICNO_result.npz
+/Diffusion_equation/Data/DNO_result.npz
+/Diffusion_equation/Data/CNO_result.npz
+/Diffusion_equation/Data/training_data.npz
+*.npz
